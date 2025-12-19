@@ -44,8 +44,6 @@
 
 
 
-
-
 	<test name="Product API Test - Get Product">
 		<classes>
 			<class name="com.qa.api.products.tests.GetProductTest" />
